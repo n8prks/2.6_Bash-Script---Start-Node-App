@@ -1,0 +1,106 @@
+node:internal/modules/cjs/loader:1146
+  throw err;
+  ^
+
+Error: Cannot find module '/mnt/c/Users/nprks/IdeaProjects/Bash-Script---Start-Node-App/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+    at Module._load (node:internal/modules/cjs/loader:984:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v21.5.0
+node:internal/modules/cjs/loader:1146
+  throw err;
+  ^
+
+Error: Cannot find module '/mnt/c/Users/nprks/IdeaProjects/Bash-Script---Start-Node-App/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+    at Module._load (node:internal/modules/cjs/loader:984:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v21.5.0
+node:internal/modules/cjs/loader:1146
+  throw err;
+  ^
+
+Error: Cannot find module '/mnt/c/Users/nprks/IdeaProjects/Bash-Script---Start-Node-App/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+    at Module._load (node:internal/modules/cjs/loader:984:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v21.5.0
+node:internal/modules/cjs/loader:1146
+  throw err;
+  ^
+
+Error: Cannot find module '/mnt/c/Users/nprks/IdeaProjects/Bash-Script---Start-Node-App/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+    at Module._load (node:internal/modules/cjs/loader:984:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v21.5.0
+node:internal/modules/cjs/loader:1146
+  throw err;
+  ^
+
+Error: Cannot find module '/mnt/c/Users/nprks/IdeaProjects/Bash-Script---Start-Node-App/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+    at Module._load (node:internal/modules/cjs/loader:984:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v21.5.0
+node:internal/modules/cjs/loader:1146
+  throw err;
+  ^
+
+Error: Cannot find module '/mnt/c/Users/nprks/IdeaProjects/Bash-Script---Start-Node-App/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+    at Module._load (node:internal/modules/cjs/loader:984:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v21.5.0
+app listening on port 3000!
+-----------------------------
+successfully set the following environment variables: 
+APP_ENV - dev
+DB_USER - myuser
+DB_PWD - mysecret
+-----------------------------
+Optional LOG_DIR environment variable not set
+node:internal/modules/cjs/loader:1146
+  throw err;
+  ^
+
+Error: Cannot find module '/mnt/c/Users/nprks/IdeaProjects/Bash-Script---Start-Node-App/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+    at Module._load (node:internal/modules/cjs/loader:984:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v21.5.0
